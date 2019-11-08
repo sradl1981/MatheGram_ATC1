@@ -23,7 +23,7 @@ Content
 -----------------------
 
 ### 00_admin
-Look here for administrative stuff.
+Look here for administrative stuff, as well as links to training material.
 
 ### 01_CAD
 Contains geometrical data mostly for the tool "FreeCAD".
