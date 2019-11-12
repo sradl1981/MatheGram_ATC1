@@ -1,5 +1,6 @@
 #!/bin/bash 
 
 rm post/*.liggghts
+rm post/*.vtk
 rm log.liggghts
 rm restart*forced*
